@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7559096&assignment_repo_type=AssignmentRepo)
 Приветствую!
 Работу выполнил Тимченко Сергей Михайлович из группы А-13б-19
 
@@ -10,3 +9,8 @@
 
 С уважением,
 Тимченко С.М.
+
+Контакты: 
+t.me\s3tout
+vk.com\s3tout
+instagram.com\_sergtim_ (запрещенная на территории РФ организация)
