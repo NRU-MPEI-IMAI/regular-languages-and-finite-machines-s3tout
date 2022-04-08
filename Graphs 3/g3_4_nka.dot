@@ -1,0 +1,21 @@
+digraph G {
+  rankdir = LR;
+  node [shape = doublecircle]; q2;
+  node [shape = circle];
+  q1 -> q2 [label = "b"];
+  q1 -> q2 [label = "c"];
+  q2 -> q3 [label = "λ"];
+  q2 -> q6 [label = "λ"];
+  q3 -> q4 [label = "a"];
+  q4 -> q3 [label = "b"];
+  q3 -> q5 [label = "c"];
+  q5 -> q10 [label = "λ"];
+  q6 -> q7 [label = "b"];
+  q7 -> q6 [label = "a"]
+  q6 -> q10 [label = "λ"];
+  q10 -> q2 [label = "λ"]
+
+  node [shape = none, label = ""] 0;
+  0 -> q1;
+}
+
